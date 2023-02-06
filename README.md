@@ -11,8 +11,6 @@ Getting started
 
 To use the code, you need to instantiate a School object and pass the name of the school as an argument. Then, you can use the available methods to manage the students and staff information.
 
-scss
-
 ps_118 = School('PS 118')
 ps_118.add_student('Arnold')
 ps_118.add_student('Gerald')
